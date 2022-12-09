@@ -1,0 +1,8 @@
+Planicie 2
+Montanha 2
+Fortaleza 2
+Mina 2
+Duna 2
+Castelo 2
+Pescaria 2
+Refugio dos piratas 2
